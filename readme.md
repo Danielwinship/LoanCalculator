@@ -1,0 +1,1 @@
+A loan calculator built using JS. It has some UX features in it.
